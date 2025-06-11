@@ -56,3 +56,5 @@ The project is clean, repeatable, and can be shared on platforms like GitHub for
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1de1a954-55df-4e50-9f1a-b908ed20a773)
+
